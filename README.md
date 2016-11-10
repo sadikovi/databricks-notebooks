@@ -57,3 +57,6 @@ folding rule.
 ## Spark GraphX / GraphFrames
 - Scala version of GraphFrames notebook with some slight modifications.
 [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3065536941249190/4413065072037724/latest.html)
+
+- GraphX shortest paths to use edge weight.
+[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/1494815129692969/4413065072037724/latest.html)
