@@ -54,9 +54,12 @@ folding rule.
 - Reminder notebook on `StringType` to `TimestampType` conversion for DataFrames.
 [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3696710289009770/4413065072037724/latest.html)
 
+- Column combine and explode UDFs.
+[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/2662535171379268/4413065072037724/latest.html)
+
 ## Spark GraphX / GraphFrames
 - Scala version of GraphFrames notebook with some slight modifications.
 [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3065536941249190/4413065072037724/latest.html)
 
 - GraphX shortest paths to use edge weight.
-[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/1494815129692969/4413065072037724/latest.html)
+[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/1494815129692969/4413065072037724/latest.html), this is used [here](http://lamastex.org/lmse/mep/src/GraphXShortestWeightedPaths.html) to allow for user-specified edge-weights as an edge attribute.
